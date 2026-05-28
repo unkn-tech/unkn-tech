@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning: `Data Structures & Algorithms`, `Artificial Intelligence`, and `System Design`
-- 📚 Exploring: `OpenAI`, `Cybersecurity`, and `C programming`
+- 📚 Exploring: `OpenAI`, `Cybersecurity`, and `Python`
 - 🧠 Goal: To become internship-ready and build real-world projects
 - ✨ Fun fact: I recharge best in quiet corners—with a laptop, a hoodie, and some good code
 - 💬 Ask me about: anything tech or productivity-related!
